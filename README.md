@@ -1,4 +1,4 @@
-# How to Create a Fully Private AWS EKS Cluster? (Client VPN & Resolve Private Route 53 DNS Locally)
+# Create a Fully Private AWS EKS Cluster? (Client VPN & Resolve Private Route 53 DNS Locally)
 
 ## Commands
 
